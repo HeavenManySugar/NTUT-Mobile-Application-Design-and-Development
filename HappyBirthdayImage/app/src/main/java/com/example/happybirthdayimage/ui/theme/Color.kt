@@ -1,4 +1,4 @@
-package com.example.happybirthday.ui.theme
+package com.example.happybirthdayimage.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

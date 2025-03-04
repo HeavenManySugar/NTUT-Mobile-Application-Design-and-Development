@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.happybirthday"
+    namespace = "com.example.happybirthdayimage"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.happybirthday"
+        applicationId = "com.example.happybirthdayimage"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

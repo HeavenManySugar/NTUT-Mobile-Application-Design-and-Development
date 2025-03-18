@@ -116,7 +116,7 @@ fun AffirmationCardPreview() {
 
 @Composable
 fun AffirmationsList(affirmationList: List<Affirmation>, modifier: Modifier = Modifier) {
-    LazyColumn(modifier = modifier) {
+        LazyColumn(modifier = modifier) {
         items(affirmationList) { affirmation ->
             AffirmationCard(
                 affirmation = affirmation,
